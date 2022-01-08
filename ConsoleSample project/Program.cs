@@ -8,6 +8,7 @@ namespace ConsoleSample_project
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Lets learn c#!");
+            Console.WriteLine("Im Pro");
             Console.ReadKey();
         }
     }
